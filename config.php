@@ -1,8 +1,8 @@
 <?php $config = array(
     "database_type"=>"mysql",
     "database_name"=>"internalticket",
-    "server"=>"127.0.0.1",
-    "username"=>"root",
+    "server"=>"localhost",
+    "username"=>"remote",
     "password"=>"P@ssw0rdmyteacher",
     "charset"=>"utf8",
     "port"=>3306,
