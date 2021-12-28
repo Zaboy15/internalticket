@@ -1,0 +1,10 @@
+<?php $config = array(
+    "database_type"=>"mysql",
+    "database_name"=>"internalticket",
+    "server"=>"127.0.0.1",
+    "username"=>"root",
+    "password"=>"P@ssw0rdmyteacher",
+    "charset"=>"utf8",
+    "port"=>3306,
+    "encryption_key"=>"72a3d4da4a363c5df6ae1e9fdd4740367ca98d17f51d8b3daf7e72900f7d9f4d",
+	"encryption_iv"=>"423916da0d7a1be53248a989559fb99eee07584884802e63c2238f9ce7f0e19f" ); ?>
